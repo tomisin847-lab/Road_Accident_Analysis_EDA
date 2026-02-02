@@ -22,7 +22,7 @@ By the end of this project, the analysis aims to:
 
   ---
   
-##❓ Business Questions
+## ❓ Business Questions
 
 - Which days and hours have the highest accident occurrences?
 - What is the distribution of accident severity (slight, serious, fatal)?
