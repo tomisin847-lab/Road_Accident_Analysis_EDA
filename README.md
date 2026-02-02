@@ -1,6 +1,6 @@
 # 🚦Road Traffic Accident Analysis - Exploratory Data Analysis (Python)
 
-## Project Overview
+## 📌 Project Overview
 
 Road traffic accidents remain a major public safety concern, leading to loss of lives, injuries, and economic impact. Understanding the patterns and contributing factors behind these accidents is essential for developing effective prevention strategies.
 
@@ -22,9 +22,9 @@ By the end of this project, the analysis aims to:
 
   ---
   
-## Business Questions
+##❓ Business Questions
 
--Which days and hours have the highest accident occurrences?
+- Which days and hours have the highest accident occurrences?
 - What is the distribution of accident severity (slight, serious, fatal)?
 - Which driver demographics (age, gender) are most frequently involved?
 - What are the leading causes of accidents?
@@ -32,7 +32,7 @@ By the end of this project, the analysis aims to:
 
 ---
 
-## Dataset
+## 📂 Dataset
 
 The dataset contains road accident records, including:
 
@@ -50,7 +50,7 @@ The raw data contained missing values (up to 30%) and required cleaning before a
 
 ---
 
-## Data Cleaning Process
+## 🧹 Data Cleaning Process
 
 The following steps were performed using Python:
 
@@ -64,7 +64,7 @@ The following steps were performed using Python:
   
 --- 
 
-## Analysis Steps
+## 📊 Analysis Steps
 
 1. Created summary tables to analyze accidents by:
     - Severity
@@ -92,7 +92,7 @@ The following steps were performed using Python:
 
 ---
 
-## Visualizations
+## 📈 Visualizations
 
 The following charts were created using Python:
 
@@ -132,6 +132,6 @@ These visualizations highlight patterns, high-risk groups, and temporal trends f
 
 ## 👩‍💻Author
 
-Name: Adeyemi Tomisin Precious
-Role: Data Analyst
+- Name: Adeyemi Tomisin Precious
+- Role: Data Analyst
 
